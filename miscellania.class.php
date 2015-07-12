@@ -1,5 +1,10 @@
 <?php
-class Miscellania {
+  class Miscellania {
+    
+    function areaQuadrado($lado) {
+      return $lado * $lado;
+    }
 
-}
+    
+  }
 ?>
